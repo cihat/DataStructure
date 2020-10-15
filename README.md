@@ -19,14 +19,13 @@ Verilerin bilgisayar belliğinde tutulması için organizasyon tasarımında bel
 
 Verilerin bilgisayar belleğinde tutulması için yapılacak tasarımda amaca göre farklılık gösterebilir.Bellek boyununun artmaması öncelik ise hızdan, hız ve esneklik söz konusu ise bellekten feragat edilebilir. **Hangi organizasyon yapısı kullanılcağı tamamen yapılacak uygulamaya bağlıdır.** Doğrudan ve kesin olarak cevap verilemez.
 
-**Yazan:Yrd.Doç.Dr. Burhan Ergen**
+**Yazan: Yrd.Doç.Dr. Burhan Ergen**
+[Kaynakça](https://github.com/cihatdev/DataStructure/blob/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1/B%C3%B6l%C3%BCm1Analiz.pdf)
 
 <br>
 <hr>
 
 ## Linked List (Linkli Liste veya Bağlı Liste)
-
-[Kaynakça](http://bilgisayarkavramlari.sadievrenseker.com/2007/05/03/linked-list-linkli-liste-veya-bagli-liste/#:~:text=%C3%87ift%20Ba%C4%9Fl%C4%B1%20Dairesel%20listeye%20ekleme,ekleme%20yapan%20ve%20silen%20kod.)
 
 Bağlı liste herhangi bir tipten node’ların (düğümlerin) yine kendi tiplerinden düğümlere işaret etmesi (point) ile oluşan zincire verilen isimdir. Buna göre her düğümde kendi tipinden bir pointer olacak ve bu pointerlar ile düğümler birbirine aşağıdaki şekilde bağlanacaktır.
 
@@ -92,18 +91,38 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 - [ Çift Bağlı liste Çift yönlü bağlı listeye 10 sayı ekleyerek listenin ters bağlantısı üzerinden listeyi ters basan kod.](https://www.sadievrenseker.com/datastr/doubly1.cpp)
 
 **Yazan:Şadi Evren ŞEKER**
+
+[Kaynakça](http://bilgisayarkavramlari.sadievrenseker.com/2007/05/03/linked-list-linkli-liste-veya-bagli-liste/#:~:text=%C3%87ift%20Ba%C4%9Fl%C4%B1%20Dairesel%20listeye%20ekleme,ekleme%20yapan%20ve%20silen%20kod.)
 <br>
 
 <hr>
 
 ## Gelecek Dersler
 
-## Gelecek Dersler
+<br>
+<hr>
 
 ## Gelecek Dersler
 
-## Gelecek Dersler
+<br>
+<hr>
 
 ## Gelecek Dersler
 
+<br>
+<hr>
+
 ## Gelecek Dersler
+
+<br>
+<hr>
+
+## Gelecek Dersler
+
+<br>
+<hr>
+
+## Gelecek Dersler
+
+<br>
+<hr>
