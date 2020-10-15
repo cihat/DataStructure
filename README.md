@@ -57,15 +57,16 @@ Bağlı listeden eleman silinmesi sırasında, listede silinecek olan elemandan 
 
 Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmamasından dolayı kodlanması biraz farklıdır. Bilindiği gibi C++ gibi melez (hem C hem de nesne yönelimli programlamayı destekler) diller dışında JAVA, C# gibi dillerde gösterici (pointer) bulunmaz. Bunun yerine nesne göstericisi (object referrer) bulunur. Bu değişken tipleri esas olarak bir sınıf(Class)‘dan türetilmiş bir nesneyi(object) gösterebilen değişkenlerdir. Bu değişkenlerin aslında birer göstericiden farkı yoktur.
 
-**Bağlı listenin anlatıldığı Videolar**
+**Bağlı listenin anlatıldığı Videolar(PlayListler)**
 
-- [Veri Yapıları PlayList](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
+- [Veri Yapıları PlayList Şadi Evren ŞEKER](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
 - [Veri Yapılarına Giriş ve Bağlı Listeler (Linked List) -VY1](https://www.youtube.com/watch?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT&v=r3uOBb3BM-0)
-- [Veri Yapıları dersi sınav çözümü](#)
-- [Filitreleme tipi fonksiyonlar](#)
-- [Bindirme tipi fonksiyonlar](#)
-- [Bağlı liste ile yığın (stack) kodlaması](#)
-- [Dairesel Bağlı liste ile önceliğe sahip hasta takip kodlaması](#)
+- [75 Derste Veri Yapıları Murat Yücedağ](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNwV1Twc3UtaMBqGJx3CCrU)
+- [C++ ile Veri Yapıları ( Data Structure)Yazılıma Gönül Ver](https://www.youtube.com/playlist?list=PLfs1gAT4S8yJuI9WLcTwsANzsHloTz1p5)
+- [Veri Yapıları ve Algoritmalar Ders Anlatım Bilgisayar Mühendisliği](https://www.youtube.com/playlist?list=PLDUOF2Be-kzlga9FbVXHgRCJ41E9yPq9Z)
+- [Veri Yapıları Kayhan Ayar](https://www.youtube.com/playlist?list=PLIM5iw4GHbNXr22B5Oy9l3v43_y1OlR9Z)
+- [Data Structures and Algorithms Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+- [Data Structures RobEdwards](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 
 **Örnek Bağlı liste kodları:(C++)**
 
