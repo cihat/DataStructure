@@ -53,6 +53,11 @@ Kuyruk mantığına gerek günlük hayatta gerekse bilgisayarda sıraya sokulmas
 </p>
 
 ![screenShot3](https://user-images.githubusercontent.com/57585087/96136620-86283580-0f04-11eb-9009-127b4b8b0c97.png)
+<br>
+
+#### 3.1 Bağlı Listeler
+
+Bağlı listeler, bir elemanın kendinden sonra gelen verinin yerini göstermesi olarak tanımlanabilir. Dizi mantığı kullanılarak da her ne kadar bağlı liste oluşturmak mümkünse de geneld verini hücre (düğüm) yapıları şeklinde tutulduğu liste oluşumu kullanılır. **Çünkü düğüm yapısının kullanan bu mantıkta kaç eleman olduğunu bilmeniz ve sunuru önceden belirlemenizin gereği yoktur.** Şekil 3.1'de bağlı liste mantığı şematik olrak verilmiştir. Liste başı 'Ahmet' verisi içeren düğüm ve liste sonu 'Hasan' verisi içeren düğümdür.
 
 **Yazan: Yrd.Doç.Dr. Burhan Ergen**
 
@@ -165,8 +170,8 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 
 ## Kodların Ekran Kaydı
 
-1. ![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
+- ![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
 
-2.
+-
 
-3.
+-
