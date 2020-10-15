@@ -1,3 +1,11 @@
+## Kodların Ekran Kaydı
+
+1. ![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
+
+<br>
+<hr>
+
+
 # Linked List (Linkli Liste veya Bağlı Liste)
 
 
