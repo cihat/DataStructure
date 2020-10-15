@@ -9,9 +9,11 @@
 
 ## Veri Yapılarıları ve Algoritmalar
 
-1. Veri Yapısı Nedir ?
+### 1. Veri Yapısı Nedir ?
 
+<p>
 Verinin bilgisayar belleğinde saklanma şekli ve organizasyonuna **Veri Yapısı** denir. Veri tipleri, verinin türüne göre farklılık gösterir. İşaretli olmayan bir pozitif sayı doğrudan ikili yapıda tutulurken , işaretli sayı ikinin tümleyeni şeklinde tutulur.
+</p>
 
 Verinin bellekte kapladığı alan, erişim şekli ve hızı kavramları organizasyonun yapısı farklılaşmasını, uygun organizasyon tasarımı yapılmasını gerekli kılar. Verilere özel olarak, belirli veriler ayrı ayrı ulaşma ihtiyacı yoksa verilerin sıralı bir biçimde tutulmasına ihtiyaç yoktur.Fakat eğer bir arama yapılacaksa bu durumda verilerin sıralı olması bir avantaj sağayacaktır. Eğer verilerin eklenmesi ve çıkarılması fazlaca yapılıyorsa ve sınır belirli değilse bu durumda ağaç yapısının kullanılması ayrıca bir kolaylık getirecektir.
 
