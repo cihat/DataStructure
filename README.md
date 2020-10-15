@@ -38,6 +38,7 @@ Yığıt mantığı için genelde ekeleme için itme (push) ve çıkarma için �
 <p>
   Yığıt matığının gerçekleştirilebilmesi için yığıtta saklanacak verileri tutacak bir diziye ve yığıtın en üst kısmını(son eklenene elemanı) işaret edecek bir değişkene ihtiyaç duyulur. Gerek yığıt vbe gerekse başka zaman programlama yapılırken program, anlamlı olacak şekilde metodlar halinde verilmesi hem anlaşılırlığı  artırır hem de programın esnek ve yazılan metodların başka programlarda da kullanılması kolaylığını getirir. Bu mantık içerisinde yığıt mantığı kod olarak şöyle verilebilir.
 </p>
+
 ![screenShot](https://user-images.githubusercontent.com/57585087/96131782-495b3f00-0f02-11eb-86a8-b835edc0354f.png)
 
 **Yazan: Yrd.Doç.Dr. Burhan Ergen**
