@@ -57,10 +57,10 @@ Bağlı listeden eleman silinmesi sırasında, listede silinecek olan elemandan 
 
 Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmamasından dolayı kodlanması biraz farklıdır. Bilindiği gibi C++ gibi melez (hem C hem de nesne yönelimli programlamayı destekler) diller dışında JAVA, C# gibi dillerde gösterici (pointer) bulunmaz. Bunun yerine nesne göstericisi (object referrer) bulunur. Bu değişken tipleri esas olarak bir sınıf(Class)‘dan türetilmiş bir nesneyi(object) gösterebilen değişkenlerdir. Bu değişkenlerin aslında birer göstericiden farkı yoktur.
 
-**Bağlı listenin kullanıldığı yazılar**
+**Bağlı listenin anlatıldığı Videolar**
 
-- [Örnek bir öncelik sıralamalı dairesel bağlı liste kodunun açıklaması](#)
-- [İki ayrı dosyanın içeriğini okuyup bağlı listeye koyan uygulama](#)
+- [Veri Yapıları PlayList](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
+- [Veri Yapılarına Giriş ve Bağlı Listeler (Linked List) -VY1](https://www.youtube.com/watch?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT&v=r3uOBb3BM-0)
 - [Veri Yapıları dersi sınav çözümü](#)
 - [Filitreleme tipi fonksiyonlar](#)
 - [Bindirme tipi fonksiyonlar](#)
