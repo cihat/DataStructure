@@ -55,5 +55,7 @@ modules.xml
 
 out/*
 
-out/production/*
+*/out/production/*
+
+*/out/*
 

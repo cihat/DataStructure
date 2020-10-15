@@ -7,9 +7,24 @@
 - [Gelecek Dersler](#)
 - [Gelecek Dersler](#)
 
-## Linked List (Linkli Liste veya Bağlı Liste)
+## Veri Yapılarıları ve Algoritmalar
 
-**Yazan:Şadi Evren ŞEKER**
+1. Veri Yapısı Nedir ?
+
+Verinin bilgisayar belleğinde saklanma şekli ve organizasyonuna **Veri Yapısı** denir. Veri tipleri, verinin türüne göre farklılık gösterir. İşaretli olmayan bir pozitif sayı doğrudan ikili yapıda tutulurken , işaretli sayı ikinin tümleyeni şeklinde tutulur.
+
+Verinin bellekte kapladığı alan, erişim şekli ve hızı kavramları organizasyonun yapısı farklılaşmasını, uygun organizasyon tasarımı yapılmasını gerekli kılar. Verilere özel olarak, belirli veriler ayrı ayrı ulaşma ihtiyacı yoksa verilerin sıralı bir biçimde tutulmasına ihtiyaç yoktur.Fakat eğer bir arama yapılacaksa bu durumda verilerin sıralı olması bir avantaj sağayacaktır. Eğer verilerin eklenmesi ve çıkarılması fazlaca yapılıyorsa ve sınır belirli değilse bu durumda ağaç yapısının kullanılması ayrıca bir kolaylık getirecektir.
+
+Verilerin bilgisayar belliğinde tutulması için organizasyon tasarımında belirli temel düşünceler yer alır. Bellekte fazla yer kaplamayacak şeklinde en uygun yapıda tutulması gereklidir. Ayrıca verilerin oluşturulması, eklenmesi, çıkarılması ve ulaşım şekli konusunda kolay ve etkin algoritmalar sunması gereklidir.
+
+Verilerin bilgisayar belleğinde tutulması için yapılacak tasarımda amaca göre farklılık gösterebilir.Bellek boyununun artmaması öncelik ise hızdan, hız ve esneklik söz konusu ise bellekten feragat edilebilir. **Hangi organizasyon yapısı kullanılcağı tamamen yapılacak uygulamaya bağlıdır.** Doğrudan ve kesin olarak cevap verilemez.
+
+**Yazan:Yrd.Doç.Dr. Burhan Ergen**
+
+<br>
+<hr>
+
+## Linked List (Linkli Liste veya Bağlı Liste)
 
 [Kaynakça](http://bilgisayarkavramlari.sadievrenseker.com/2007/05/03/linked-list-linkli-liste-veya-bagli-liste/#:~:text=%C3%87ift%20Ba%C4%9Fl%C4%B1%20Dairesel%20listeye%20ekleme,ekleme%20yapan%20ve%20silen%20kod.)
 
@@ -75,6 +90,11 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 - [Bir bağlı listede arama yapan kod Arama sonucunda bulunna düğümün işaretcisini döndürür.](https://www.sadievrenseker.com/datastr/linkedlist3.cpp)
 - [Circular (dairesel) Bağlı liste Dairesel bağlı listeye 10 sayı ekleyerek ekrana basar.](https://www.sadievrenseker.com/datastr/cicularlinkedlist1.cpp)
 - [ Çift Bağlı liste Çift yönlü bağlı listeye 10 sayı ekleyerek listenin ters bağlantısı üzerinden listeyi ters basan kod.](https://www.sadievrenseker.com/datastr/doubly1.cpp)
+
+**Yazan:Şadi Evren ŞEKER**
+<br>
+
+<hr>
 
 ## Gelecek Dersler
 
