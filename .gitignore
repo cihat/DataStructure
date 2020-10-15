@@ -48,12 +48,10 @@ fabric.properties
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
-# modules.xml
+*.iml
+modules.xml
 
 .idea/
 
-out/
-
-out/production/
+out/*
 
