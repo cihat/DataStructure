@@ -59,6 +59,9 @@ Kuyruk mantığına gerek günlük hayatta gerekse bilgisayarda sıraya sokulmas
 
 Bağlı listeler, bir elemanın kendinden sonra gelen verinin yerini göstermesi olarak tanımlanabilir. Dizi mantığı kullanılarak da her ne kadar bağlı liste oluşturmak mümkünse de geneld verini hücre (düğüm) yapıları şeklinde tutulduğu liste oluşumu kullanılır. **Çünkü düğüm yapısının kullanan bu mantıkta kaç eleman olduğunu bilmeniz ve sunuru önceden belirlemenizin gereği yoktur.** Şekil 3.1'de bağlı liste mantığı şematik olrak verilmiştir. Liste başı 'Ahmet' verisi içeren düğüm ve liste sonu 'Hasan' verisi içeren düğümdür.
 ![screenShot4](https://user-images.githubusercontent.com/57585087/96139258-5890bb80-0f07-11eb-92ee-793f099d5588.png)
+![screenShot7](https://user-images.githubusercontent.com/57585087/96140297-71e63780-0f08-11eb-9fcd-2ae32f580c58.png)
+![screenshot5](https://user-images.githubusercontent.com/57585087/96140300-73176480-0f08-11eb-8fab-6172671c3002.png)
+![screenShot6](https://user-images.githubusercontent.com/57585087/96140302-73affb00-0f08-11eb-921e-08f8f13a8188.png)
 
 <br>
 
