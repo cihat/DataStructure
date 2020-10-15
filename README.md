@@ -54,8 +54,6 @@ Kuyruk mantığına gerek günlük hayatta gerekse bilgisayarda sıraya sokulmas
 
 ![screenShot3](https://user-images.githubusercontent.com/57585087/96136620-86283580-0f04-11eb-9009-127b4b8b0c97.png)
 
-
-
 **Yazan: Yrd.Doç.Dr. Burhan Ergen**
 
 [Kaynakça](https://github.com/cihatdev/DataStructure/blob/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1/B%C3%B6l%C3%BCm1Analiz.pdf)
@@ -164,3 +162,11 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 
 <br>
 <hr>
+
+## Kodların Ekran Kaydı
+
+1. ![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
+
+2.
+
+3.
