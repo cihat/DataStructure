@@ -5,7 +5,7 @@
 - [LinkList Dersleri(Örnekleri)](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
 
   **Yazan:Şadi Evren ŞEKER**
-  ![Kaynak](http://bilgisayarkavramlari.sadievrenseker.com/2007/05/03/linked-list-linkli-liste-veya-bagli-liste/#:~:text=%C3%87ift%20Ba%C4%9Fl%C4%B1%20Dairesel%20listeye%20ekleme,ekleme%20yapan%20ve%20silen%20kod.)
+  [Kaynak](http://bilgisayarkavramlari.sadievrenseker.com/2007/05/03/linked-list-linkli-liste-veya-bagli-liste/#:~:text=%C3%87ift%20Ba%C4%9Fl%C4%B1%20Dairesel%20listeye%20ekleme,ekleme%20yapan%20ve%20silen%20kod.)
 
 Bağlı liste herhangi bir tipten node’ların (düğümlerin) yine kendi tiplerinden düğümlere işaret etmesi (point) ile oluşan zincire verilen isimdir. Buna göre her düğümde kendi tipinden bir pointer olacak ve bu pointerlar ile düğümler birbirine aşağıdaki şekilde bağlanacaktır.
 
