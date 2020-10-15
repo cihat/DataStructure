@@ -14,12 +14,31 @@
 <p>
 Verinin bilgisayar belleğinde saklanma şekli ve organizasyonuna **Veri Yapısı** denir. Veri tipleri, verinin türüne göre farklılık gösterir. İşaretli olmayan bir pozitif sayı doğrudan ikili yapıda tutulurken , işaretli sayı ikinin tümleyeni şeklinde tutulur.
 </p>
+<p>Verinin bellekte kapladığı alan, erişim şekli ve hızı kavramları organizasyonun yapısı farklılaşmasını, uygun organizasyon tasarımı yapılmasını gerekli kılar. Verilere özel olarak, belirli veriler ayrı ayrı ulaşma ihtiyacı yoksa verilerin sıralı bir biçimde tutulmasına ihtiyaç yoktur.Fakat eğer bir arama yapılacaksa bu durumda verilerin sıralı olması bir avantaj sağayacaktır. Eğer verilerin eklenmesi ve çıkarılması fazlaca yapılıyorsa ve sınır belirli değilse bu durumda ağaç yapısının kullanılması ayrıca bir kolaylık getirecektir.</p>
 
-Verinin bellekte kapladığı alan, erişim şekli ve hızı kavramları organizasyonun yapısı farklılaşmasını, uygun organizasyon tasarımı yapılmasını gerekli kılar. Verilere özel olarak, belirli veriler ayrı ayrı ulaşma ihtiyacı yoksa verilerin sıralı bir biçimde tutulmasına ihtiyaç yoktur.Fakat eğer bir arama yapılacaksa bu durumda verilerin sıralı olması bir avantaj sağayacaktır. Eğer verilerin eklenmesi ve çıkarılması fazlaca yapılıyorsa ve sınır belirli değilse bu durumda ağaç yapısının kullanılması ayrıca bir kolaylık getirecektir.
+<p>Verilerin bilgisayar belliğinde tutulması için organizasyon tasarımında belirli temel düşünceler yer alır. Bellekte fazla yer kaplamayacak şeklinde en uygun yapıda tutulması gereklidir. Ayrıca verilerin oluşturulması, eklenmesi, çıkarılması ve ulaşım şekli konusunda kolay ve etkin algoritmalar sunması gereklidir.
+</p>
 
-Verilerin bilgisayar belliğinde tutulması için organizasyon tasarımında belirli temel düşünceler yer alır. Bellekte fazla yer kaplamayacak şeklinde en uygun yapıda tutulması gereklidir. Ayrıca verilerin oluşturulması, eklenmesi, çıkarılması ve ulaşım şekli konusunda kolay ve etkin algoritmalar sunması gereklidir.
-
+<p>
 Verilerin bilgisayar belleğinde tutulması için yapılacak tasarımda amaca göre farklılık gösterebilir.Bellek boyununun artmaması öncelik ise hızdan, hız ve esneklik söz konusu ise bellekten feragat edilebilir. **Hangi organizasyon yapısı kullanılcağı tamamen yapılacak uygulamaya bağlıdır.** Doğrudan ve kesin olarak cevap verilemez.
+</p>
+<br>
+
+### 2. Statik Yığıt ve Kuyruklar Nedir ?
+
+#### 2.1 Statik yığılar
+
+<p>
+Burada statik yapıdan kasıt boyut değişi olmayan dizi mantığının kullanılmasıdır. Yığıtlar kullanımı en kolay liste yapılarındandır. Yığıtta ekleme ve çıkarma sadece bir uçtan yapılır ve bu yığıtın tepe kısmıdır.
+</p>
+<p>
+Yığıt mantığı için genelde ekeleme için itme (push) ve çıkarma için çekme (pop) deyimleri kullanılır. Programlama yapılırken kullanılan alt program çağırmalarında en çok kullanılan yöntemdir. Her alt program çağırıldığında CPU içerikleri yığıta itilir ve alt program bitiminde yıpıttan çekilerek CPU'nun program koşumuna nerede kaldığı , değkenlerin ne durumda olduğu hatırlatır.En son giren ilk çıkar (LIFO:Last In Fırst OUt) mantığını gerçekleşir.
+</p>
+
+<p>
+  Yığıt matığının gerçekleştirilebilmesi için yığıtta saklanacak verileri tutacak bir diziye ve yığıtın en üst kısmını(son eklenene elemanı) işaret edecek bir değişkene ihtiyaç duyulur. Gerek yığıt vbe gerekse başka zaman programlama yapılırken program, anlamlı olacak şekilde metodlar halinde verilmesi hem anlaşılırlığı  artırır hem de programın esnek ve yazılan metodların başka programlarda da kullanılması kolaylığını getirir. Bu mantık içerisinde yığıt mantığı kod olarak şöyle verilebilir.
+</p>
+![Ekran görüntüsü 2020-10-15 161936](https://user-images.githubusercontent.com/57585087/96131782-495b3f00-0f02-11eb-86a8-b835edc0354f.png)
 
 **Yazan: Yrd.Doç.Dr. Burhan Ergen**
 [Kaynakça](https://github.com/cihatdev/DataStructure/blob/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1/B%C3%B6l%C3%BCm1Analiz.pdf)
