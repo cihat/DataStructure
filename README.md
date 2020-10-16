@@ -16,9 +16,9 @@
 - [Gelecek Dersler](#)
 <hr>
 
-#### [Videolu Dersler](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
+#### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
 
-#### [Ekran Kayıtları](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
+#### [Ekran Görüntüleri](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
 
 <hr>
 
@@ -191,9 +191,9 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 
 ## Kodların Ekran Kaydı
 
-### LinkedList
+## LinkedList
 
-- ![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
+- **Temel Düğüm Mantığı**![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
 - **Düğüm**![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
 - **Eleman Oluşturma**![codeData2](https://user-images.githubusercontent.com/57585087/96161577-217ad400-0f20-11eb-945a-e2e3581667f4.png)
 - **Baş, son belirtme ve LinkedList** Oluşturma ![codeData3](https://user-images.githubusercontent.com/57585087/96161581-22136a80-0f20-11eb-98be-fa2df01918c4.png)
