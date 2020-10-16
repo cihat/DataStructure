@@ -50,7 +50,16 @@ fabric.properties
 
 */lib/
 
-.vscode
+  
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
 
 *.iml
 modules.xml
