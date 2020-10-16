@@ -13,7 +13,9 @@
 - listele Fonksiyonu![codeData11](https://user-images.githubusercontent.com/57585087/96161624-2f305980-0f20-11eb-99d6-7483380f561c.png)
 - Main Fonksiyonu![codeData12](https://user-images.githubusercontent.com/57585087/96161568-1f187a00-0f20-11eb-8144-b1c9a7b55b23.png)
 
+<b>[Kod Kaynağı](https://github.com/Genc/Data-Structures/blob/master/1%20-%20LinkedList/LinkedList.java)</b>
 <br>
+
 <hr>
 
 # Linked List (Linkli Liste veya Bağlı Liste)
