@@ -3,18 +3,18 @@
 
 ## Ders Notları
 
-[Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1)
+[Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1) ||
 [Olcay Taner Yıldız Derst Slaytları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
 
 <hr>
 
 ## Konular
 
-[LinkedList](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
-[İlerde Gelecek](#)
-[İlerde Gelecek](#)
-[İlerde Gelecek](#)
-[İlerde Gelecek](#)
+[LinkedList](https://github.com/cihatdev/DataStructure/tree/master/LinkedList) ||
+[İlerde Gelecek](#) ||
+[İlerde Gelecek](#) ||
+[İlerde Gelecek](#) ||
+[İlerde Gelecek](#) ||
 [İlerde Gelecek](#)
 
 <hr>
