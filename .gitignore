@@ -48,6 +48,10 @@ fabric.properties
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
+*/lib/
+
+.vscode
+
 *.iml
 modules.xml
 
