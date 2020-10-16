@@ -1,4 +1,4 @@
-# **Data Structure**
+# **Veri Yapıları**
 
 ## Ders Notları
 
@@ -8,12 +8,12 @@
 
 ## Konular
 
-- [LinkList Dersleri(Örnekleri)](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
-- [Gelecek Dersler](#)
-- [Gelecek Dersler](#)
-- [Gelecek Dersler](#)
-- [Gelecek Dersler](#)
-- [Gelecek Dersler](#)
+- [LinkedList](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
+- [İlerde Gelecek](#)
+- [İlerde Gelecek](#)
+- [İlerde Gelecek](#)
+- [İlerde Gelecek](#)
+- [İlerde Gelecek](#)
 <hr>
 
 #### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
