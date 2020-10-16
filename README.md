@@ -12,7 +12,7 @@
 ### 1. Veri Yapısı Nedir ?
 
 <p>
-Verinin bilgisayar belleğinde saklanma şekli ve organizasyonuna **Veri Yapısı** denir. Veri tipleri, verinin türüne göre farklılık gösterir. İşaretli olmayan bir pozitif sayı doğrudan ikili yapıda tutulurken , işaretli sayı ikinin tümleyeni şeklinde tutulur.
+Verinin bilgisayar belleğinde saklanma şekli ve organizasyonuna <b>Veri Yapısı</b> denir. Veri tipleri, verinin türüne göre farklılık gösterir. İşaretli olmayan bir pozitif sayı doğrudan ikili yapıda tutulurken , işaretli sayı ikinin tümleyeni şeklinde tutulur.
 </p>
 <p>Verinin bellekte kapladığı alan, erişim şekli ve hızı kavramları organizasyonun yapısı farklılaşmasını, uygun organizasyon tasarımı yapılmasını gerekli kılar. Verilere özel olarak, belirli veriler ayrı ayrı ulaşma ihtiyacı yoksa verilerin sıralı bir biçimde tutulmasına ihtiyaç yoktur.Fakat eğer bir arama yapılacaksa bu durumda verilerin sıralı olması bir avantaj sağayacaktır. Eğer verilerin eklenmesi ve çıkarılması fazlaca yapılıyorsa ve sınır belirli değilse bu durumda ağaç yapısının kullanılması ayrıca bir kolaylık getirecektir.</p>
 
@@ -179,15 +179,15 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 ### LinkedList
 
 - ![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
-- Düğüm![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
-- Eleman Oluşturma![codeData2](https://user-images.githubusercontent.com/57585087/96161577-217ad400-0f20-11eb-945a-e2e3581667f4.png)
-- Baş, son belirtme ve LinkedList Oluşturma ![codeData3](https://user-images.githubusercontent.com/57585087/96161581-22136a80-0f20-11eb-98be-fa2df01918c4.png)
-- BaşaEkleme Fonksiyonu![codeData4](https://user-images.githubusercontent.com/57585087/96161582-23449780-0f20-11eb-814c-2b0be2e9714b.png)
-- Sona Ekleme Fonksiyonu![codeData5](https://user-images.githubusercontent.com/57585087/96161584-23dd2e00-0f20-11eb-8da4-e7686bade9ee.png)
-- ArayaEkleme Fonksiyonu![codeData6](https://user-images.githubusercontent.com/57585087/96161587-250e5b00-0f20-11eb-9aa3-30d0053adae9.png)
-- bastanSil Fonksiyonu![codeData7](https://user-images.githubusercontent.com/57585087/96161593-263f8800-0f20-11eb-8695-7b125480c934.png)
-- sondanSil Fonksiyonu![codeData8](https://user-images.githubusercontent.com/57585087/96161596-26d81e80-0f20-11eb-896e-57eb70109048.png)
-- arananSil Fonksiyonu![codeData9](https://user-images.githubusercontent.com/57585087/96161599-28094b80-0f20-11eb-96b8-c218dadb81e8.png)
-- siraliEkleme Fonksiyonu![codeData10](https://user-images.githubusercontent.com/57585087/96161607-293a7880-0f20-11eb-9c97-99ca80a20ded.png)
-- listele Fonksiyonu![codeData11](https://user-images.githubusercontent.com/57585087/96161624-2f305980-0f20-11eb-99d6-7483380f561c.png)
-- Main Fonksiyonu![codeData12](https://user-images.githubusercontent.com/57585087/96161568-1f187a00-0f20-11eb-8144-b1c9a7b55b23.png)
+- **Düğüm**![codeData1](https://user-images.githubusercontent.com/57585087/96137601-807f1f80-0f05-11eb-83f9-85ceed85994a.png)
+- **Eleman Oluşturma**![codeData2](https://user-images.githubusercontent.com/57585087/96161577-217ad400-0f20-11eb-945a-e2e3581667f4.png)
+- **Baş, son belirtme ve LinkedList** Oluşturma ![codeData3](https://user-images.githubusercontent.com/57585087/96161581-22136a80-0f20-11eb-98be-fa2df01918c4.png)
+- **BaşaEkleme Fonksiyonu**![codeData4](https://user-images.githubusercontent.com/57585087/96161582-23449780-0f20-11eb-814c-2b0be2e9714b.png)
+- **Sona Ekleme Fonksiyonu**![codeData5](https://user-images.githubusercontent.com/57585087/96161584-23dd2e00-0f20-11eb-8da4-e7686bade9ee.png)
+- **ArayaEkleme Fonksiyonu**![codeData6](https://user-images.githubusercontent.com/57585087/96161587-250e5b00-0f20-11eb-9aa3-30d0053adae9.png)
+- **bastanSil Fonksiyonu**![codeData7](https://user-images.githubusercontent.com/57585087/96161593-263f8800-0f20-11eb-8695-7b125480c934.png)
+- **sondanSil Fonksiyonu**![codeData8](https://user-images.githubusercontent.com/57585087/96161596-26d81e80-0f20-11eb-896e-57eb70109048.png)
+- **arananSil Fonksiyonu**![codeData9](https://user-images.githubusercontent.com/57585087/96161599-28094b80-0f20-11eb-96b8-c218dadb81e8.png)
+- **siraliEkleme Fonksiyonu**![codeData10](https://user-images.githubusercontent.com/57585087/96161607-293a7880-0f20-11eb-9c97-99ca80a20ded.png)
+- **listele Fonksiyonu**![codeData11](https://user-images.githubusercontent.com/57585087/96161624-2f305980-0f20-11eb-99d6-7483380f561c.png)
+- **Main Fonksiyonu**![codeData12](https://user-images.githubusercontent.com/57585087/96161568-1f187a00-0f20-11eb-8144-b1c9a7b55b23.png)
