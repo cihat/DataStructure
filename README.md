@@ -1,3 +1,7 @@
+<div align="center">
+<h1>Veri Yapıları</h1>
+</div>
+
 # **Veri Yapıları**
 
 ## Ders Notları
