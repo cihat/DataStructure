@@ -1,22 +1,22 @@
 <div align="center">
 <h1>Veri Yapıları</h1>
 
-
-
 ## Ders Notları
 
-- [Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1)
-- [Olcay Taner Yıldız Derst Slaytları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
+[Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1)
+[Olcay Taner Yıldız Derst Slaytları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
+
 <hr>
 
 ## Konular
 
-- [LinkedList](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
-- [İlerde Gelecek](#)
-- [İlerde Gelecek](#)
-- [İlerde Gelecek](#)
-- [İlerde Gelecek](#)
-- [İlerde Gelecek](#)
+[LinkedList](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
+[İlerde Gelecek](#)
+[İlerde Gelecek](#)
+[İlerde Gelecek](#)
+[İlerde Gelecek](#)
+[İlerde Gelecek](#)
+
 <hr>
 
 #### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
