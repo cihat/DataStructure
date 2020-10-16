@@ -6,7 +6,6 @@
 - [Olcay Taner Yıldız Derst Slaytları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
 <hr>
 
-
 ## Konular
 
 - [LinkList Dersleri(Örnekleri)](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
@@ -17,10 +16,11 @@
 - [Gelecek Dersler](#)
 <hr>
 
+## [Ekran Kayıtları](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
 
- [Ekran Kayıtları](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
+## [Videolu Dersler](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
 
-
+<hr>
 
 ## Veri Yapılarıları ve Algoritmalar
 
@@ -133,17 +133,6 @@ Bağlı listeden eleman silinmesi sırasında, listede silinecek olan elemandan 
 
 Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmamasından dolayı kodlanması biraz farklıdır. Bilindiği gibi C++ gibi melez (hem C hem de nesne yönelimli programlamayı destekler) diller dışında JAVA, C# gibi dillerde gösterici (pointer) bulunmaz. Bunun yerine nesne göstericisi (object referrer) bulunur. Bu değişken tipleri esas olarak bir sınıf(Class)‘dan türetilmiş bir nesneyi(object) gösterebilen değişkenlerdir. Bu değişkenlerin aslında birer göstericiden farkı yoktur.
 
-## **Veri Yapıları Ders Videoları(PlayListler)**
-
-- [Veri Yapıları PlayList Şadi Evren ŞEKER](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
-- [Veri Yapılarına Giriş ve Bağlı Listeler (Linked List) -VY1](https://www.youtube.com/watch?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT&v=r3uOBb3BM-0)
-- [75 Derste Veri Yapıları Murat Yücedağ](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNwV1Twc3UtaMBqGJx3CCrU)
-- [C++ ile Veri Yapıları ( Data Structure)Yazılıma Gönül Ver](https://www.youtube.com/playlist?list=PLfs1gAT4S8yJuI9WLcTwsANzsHloTz1p5)
-- [Veri Yapıları ve Algoritmalar Ders Anlatım Bilgisayar Mühendisliği](https://www.youtube.com/playlist?list=PLDUOF2Be-kzlga9FbVXHgRCJ41E9yPq9Z)
-- [Veri Yapıları Kayhan Ayar](https://www.youtube.com/playlist?list=PLIM5iw4GHbNXr22B5Oy9l3v43_y1OlR9Z)
-- [Data Structures and Algorithms Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
-- [Data Structures RobEdwards](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
-
 **Örnek Bağlı liste kodları:(C++)**
 
 - [Basit bir bağlı liste örnek kodu 10 adet sayı ekleyerek ekrana basan kod](https://www.sadievrenseker.com/datastr/linkedlist1.cpp)
@@ -155,8 +144,19 @@ Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmam
 **Yazan:Şadi Evren ŞEKER**
 
 [Kaynakça](http://bilgisayarkavramlari.sadievrenseker.com/2007/05/03/linked-list-linkli-liste-veya-bagli-liste/#:~:text=%C3%87ift%20Ba%C4%9Fl%C4%B1%20Dairesel%20listeye%20ekleme,ekleme%20yapan%20ve%20silen%20kod.)
-<br>
 
+<hr>
+
+## **Veri Yapıları Ders Videoları(PlayListler)**
+
+- [Veri Yapıları PlayList Şadi Evren ŞEKER](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
+- [Veri Yapılarına Giriş ve Bağlı Listeler (Linked List) -VY1](https://www.youtube.com/watch?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT&v=r3uOBb3BM-0)
+- [75 Derste Veri Yapıları Murat Yücedağ](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNwV1Twc3UtaMBqGJx3CCrU)
+- [C++ ile Veri Yapıları ( Data Structure)Yazılıma Gönül Ver](https://www.youtube.com/playlist?list=PLfs1gAT4S8yJuI9WLcTwsANzsHloTz1p5)
+- [Veri Yapıları ve Algoritmalar Ders Anlatım Bilgisayar Mühendisliği](https://www.youtube.com/playlist?list=PLDUOF2Be-kzlga9FbVXHgRCJ41E9yPq9Z)
+- [Veri Yapıları Kayhan Ayar](https://www.youtube.com/playlist?list=PLIM5iw4GHbNXr22B5Oy9l3v43_y1OlR9Z)
+- [Data Structures and Algorithms Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+- [Data Structures RobEdwards](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 <hr>
 
 ## Gelecek Dersler
