@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Veri Yapıları</h1>
-</div>
 
-# **Veri Yapıları**
+
 
 ## Ders Notları
 
@@ -24,6 +23,7 @@
 
 #### [Ekran Görüntüleri](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
 
+</div>
 <hr>
 
 ## Veri Yapılarıları ve Algoritmalar
