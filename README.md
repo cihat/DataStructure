@@ -2,10 +2,10 @@
 
 ## Ders Notları
 
-- ![Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1)
-- ![Olcay Taner Yıldız Derst Slaytları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
+- [Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1)
+- [Olcay Taner Yıldız Derst Slaytları](https://github.com/cihatdev/DataStructure/tree/master/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
 <hr>
-<br>
+
 
 ## Konular
 
@@ -15,9 +15,12 @@
 - [Gelecek Dersler](#)
 - [Gelecek Dersler](#)
 - [Gelecek Dersler](#)
-
 <hr>
-<br>
+
+
+ [Ekran Kayıtları](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
+
+
 
 ## Veri Yapılarıları ve Algoritmalar
 
@@ -130,7 +133,7 @@ Bağlı listeden eleman silinmesi sırasında, listede silinecek olan elemandan 
 
 Bağlı listelerin nesne yönelimli programlama dillerinde pointer tipi bulunmamasından dolayı kodlanması biraz farklıdır. Bilindiği gibi C++ gibi melez (hem C hem de nesne yönelimli programlamayı destekler) diller dışında JAVA, C# gibi dillerde gösterici (pointer) bulunmaz. Bunun yerine nesne göstericisi (object referrer) bulunur. Bu değişken tipleri esas olarak bir sınıf(Class)‘dan türetilmiş bir nesneyi(object) gösterebilen değişkenlerdir. Bu değişkenlerin aslında birer göstericiden farkı yoktur.
 
-**Bağlı listenin anlatıldığı Videolar(PlayListler)**
+## **Veri Yapıları Ders Videoları(PlayListler)**
 
 - [Veri Yapıları PlayList Şadi Evren ŞEKER](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
 - [Veri Yapılarına Giriş ve Bağlı Listeler (Linked List) -VY1](https://www.youtube.com/watch?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT&v=r3uOBb3BM-0)
