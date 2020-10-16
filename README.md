@@ -16,9 +16,9 @@
 - [Gelecek Dersler](#)
 <hr>
 
-## [Ekran Kayıtları](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
+#### [Videolu Dersler](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
 
-## [Videolu Dersler](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
+#### [Ekran Kayıtları](https://github.com/cihatdev/DataStructure#kodlar%C4%B1n-ekran-kayd%C4%B1)
 
 <hr>
 
