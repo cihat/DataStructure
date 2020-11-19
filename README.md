@@ -15,37 +15,42 @@
 <ul>
   <li>
 
-[Linked List](https://github.com/cihatdev/DataStructure/tree/master/LinkedList)
+[Linked List](https://github.com/cihatdev/DataStructure/tree/master/1%20-%20LinkedList)
 
   </li>
   <li>
 
-[Doubly Linked List(Çift Bağlantılı Listeler)](https://github.com/cihatdev/DataStructure/tree/master/DoublyLinkedL%C4%B0st)
+[Doubly Linked List(Çift Bağlantılı Listeler)](https://github.com/cihatdev/DataStructure/tree/master/2%20-%20DoublyLinkedL%C4%B0st)
 
   </li>
   <li>
 
-[Queue(Kuyruk)](https://github.com/cihatdev/DataStructure/tree/master/Queue)
+[Stack(Yığın)](https://github.com/cihatdev/DataStructure/tree/master/3%20-%20Stack)
 
   </li>
   <li>
 
-[Stack(Yığın)](https://github.com/cihatdev/DataStructure/tree/master/Stack)
+[Queue(Kuyruk)](https://github.com/cihatdev/DataStructure/tree/master/4%20-%20Queue)
 
   </li>
   <li>
 
-[Hash Table(Hash Tablosu)](https://github.com/cihatdev/DataStructure/tree/master/HashTable)
+[Binary Search Tree(Ikili Arama Ağaçları)](https://github.com/cihatdev/DataStructure/tree/master/5%20-%20BinarySearchTree)
 
   </li>
   <li>
 
-[Tree](https://github.com/cihatdev/DataStructure/tree/master/Tree)
+[Tree](https://github.com/cihatdev/DataStructure/tree/master/6%20-%20Tree)
 
   </li>
   <li>
 
-[Binary Search Tree(Ikili Arama Ağaçları)](https://github.com/cihatdev/DataStructure/tree/master/BinarySearchTree)
+[Hash Table(Hash Tablosu)](https://github.com/cihatdev/DataStructure/tree/master/7%20-%20HashTable)
+
+  </li>
+    <li>
+
+[Graph(Graf)](https://github.com/cihatdev/DataStructure/tree/master/8%20-%20Graph)
 
   </li>
 
