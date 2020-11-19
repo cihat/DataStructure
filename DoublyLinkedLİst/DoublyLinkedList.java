@@ -108,7 +108,7 @@ public class DoublyLinkedList {
       son = eklenecekSayi;
     } else {
       eklenecekSayi.ileri = yedek.ileri;
-      yedek.ileri.geri = eklenecekSayiİ;
+      yedek.ileri.geri = eklenecekSayi;
     }
     eklenecekSayi.geri = yedek;
     yedek.ileri = eklenecekSayi;
