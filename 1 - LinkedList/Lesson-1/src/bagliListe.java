@@ -21,5 +21,6 @@ public class bagliListe {
       System.out.print(tmp.icerik + " --> ");
       tmp = tmp.ileri;
     }
+    System.out.println();
   }
 }

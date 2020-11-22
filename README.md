@@ -25,7 +25,7 @@
   </li>
   <li>
 
-[Stack(Yığın)](https://github.com/cihatdev/DataStructure/tree/master/3%20-%20Stack)
+[Stack(Yığıt)](https://github.com/cihatdev/DataStructure/tree/master/3%20-%20Stack)
 
   </li>
   <li>
