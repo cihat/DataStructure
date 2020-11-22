@@ -70,4 +70,4 @@ public class Stack {
  * EKRAN CIKTISI Stack' e eleman ekliyoruz: 4 9 1 7 3 Stack' ten eleman
  * çıkartıyoruz: 3 7 1 9 4
  */
-// Son giren ilk cikar
+// Son giren ilk cikar.
