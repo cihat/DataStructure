@@ -12,7 +12,7 @@
 
 ## Konular
 
-<ul>
+<ul style="list-style-type: none;">
   <li>
 
 [Linked List](https://github.com/cihatdev/DataStructure/tree/master/1%20-%20LinkedList)
