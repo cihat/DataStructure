@@ -16,6 +16,8 @@
 
 #### [Source Repos Of Codes(ilhanaydintr/Data-Structures)](https://github.com/ilhanaydintr/Data-Structures)
 
+#### [Fırat Üniversitesi Ders Notları(AhmetEkmell/Ders-Notlari)](https://github.com/AhmetEkmell/Ders-Notlari)
+
 ## Konular
 
 <ul>
