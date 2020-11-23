@@ -37,7 +37,8 @@ public class LinkedList {
       bas = yeni;
       son = yeni;
     } else {
-      // Eğer daha onceden eleman varsa yeni gelen eleman sonu göstermeli ve artık son
+      // Eğer daha onceden eleman varsa yeni gelen eleman sonu göstermeli ve artık
+      // sonsdfsadfsadfsdf
       // o oluyor.
       son.ileri = yeni;
       son = yeni;
