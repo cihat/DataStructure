@@ -10,7 +10,11 @@
 
 <hr>
 
-#### [Code Source](https://github.com/Genc/Data-Structures)
+#### [Source Repos Of Codes(Genc/Data-Structures)](https://github.com/ayyucedemirbas/Data-Structures-Java)
+
+#### [Source Repos Of Codes(ayyucedemirbas/Data-Structures-Java)](https://github.com/Genc/Data-Structures)
+
+#### [Source Repos Of Codes(ilhanaydintr/Data-Structures)](https://github.com/ilhanaydintr/Data-Structures)
 
 ## Konular
 
