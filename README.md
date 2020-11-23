@@ -43,11 +43,6 @@
 [Tree](https://github.com/cihatdev/DataStructure/tree/master/6%20-%20Tree)
 
   </li>
-  <li>
-
-[Hash Table(Hash Tablosu)](https://github.com/cihatdev/DataStructure/tree/master/7%20-%20HashTable)
-
-  </li>
     <li>
 
 [Graph(Graf)](https://github.com/cihatdev/DataStructure/tree/master/8%20-%20Graph)
@@ -58,7 +53,7 @@
 
 <hr/>
 
-### [Awesome DataScience](https://github.com/academic/awesome-datascience#twitter-accounts)
+### [Awesome DataScience](https://github.com/academic/awesome-datascience)
 
 ##### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
 

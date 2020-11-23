@@ -44,8 +44,6 @@ public class App {
 
   public static void main(String[] args) {
     int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8 };
-    String deneme = "sdfasdf";
-    System.out.println(deneme);
     // Bir dizinin k'nıncı elemanını sile algoritma
     // dizidenSil(arr, 3);
 
