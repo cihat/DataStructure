@@ -12,7 +12,7 @@ class Eleman {
 // Elemanlarımızı Tek Yömlü Bağlu Listede tutuyoruz.
 public class LinkedList {
   Eleman bas;// Baştaki elemanı tutuyoruz.
-  Eleman son;// Sondaki elemanı tutuyoruz.
+  Eleman son;//* Sondaki elemanı tutuyoruz.
 
   public LinkedList() {
     bas = null;// İlk olarak boş tanımlıyoruz.

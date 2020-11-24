@@ -55,9 +55,9 @@
 
 ### [Awesome DataScience](https://github.com/academic/awesome-datascience)
 
-##### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler)
+<!-- ##### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler) -->
 
-## Veri Yapılarıları ve Arama Algoritmalar
+<!-- ## Veri Yapılarıları ve Arama Algoritmalar -->
 
 ### Veri Yapısı Nedir ?
 
@@ -74,19 +74,30 @@ Verilerin bilgisayar belleğinde tutulması için yapılacak tasarımda amaca g�
 </p>
 <br>
 
-## **Veri Yapıları Ders Videoları(PlayListler)**
+## **Veri Yapıları Türkçe Ders Videoları(PlayListler)**
 
 - [Veri Yapıları PlayList Şadi Evren ŞEKER](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
-- [Veri Yapılarına Giriş ve Bağlı Listeler (Linked List) -VY1](https://www.youtube.com/watch?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT&v=r3uOBb3BM-0)
 - [75 Derste Veri Yapıları Murat Yücedağ](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNwV1Twc3UtaMBqGJx3CCrU)
-- [C++ ile Veri Yapıları ( Data Structure)Yazılıma Gönül Ver](https://www.youtube.com/playlist?list=PLfs1gAT4S8yJuI9WLcTwsANzsHloTz1p5)
-- [Veri Yapıları ve Algoritmalar Ders Anlatım Bilgisayar Mühendisliği](https://www.youtube.com/playlist?list=PLDUOF2Be-kzlga9FbVXHgRCJ41E9yPq9Z)
-- [Veri Yapıları Kayhan Ayar](https://www.youtube.com/playlist?list=PLIM5iw4GHbNXr22B5Oy9l3v43_y1OlR9Z)
-- [Data Structures and Algorithms Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
-- [Data Structures RobEdwards](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
+- [Veri Yapıları(Algoritma Uzmanı)](https://www.youtube.com/playlist?list=PLUUSh8du1azZEsdngPxMQGLnatId0V4h9)
+- [Verı Yapıları ve Algoritmalar Ders Anlatım(Bilgisayar Mühendisliği)](https://www.youtube.com/playlist?list=PLDUOF2Be-kzlga9FbVXHgRCJ41E9yPq9Z)
+- [Veri Yapıları(Kayhan Ayar)](https://www.youtube.com/playlist?list=PLIM5iw4GHbNXr22B5Oy9l3v43_y1OlR9Z)
+- [C++ ile Veri Yapıları ( Data Structure)(Yazılıma Gönül Ver)](https://www.youtube.com/playlist?list=PLfs1gAT4S8yJuI9WLcTwsANzsHloTz1p5)
+- [Veri Yapıları Ve Algoritmalar & Java(Uğurcan Çetin)](https://www.youtube.com/playlist?list=PLqrGn5CSpZ-cUtBZFhXMQO0eGqFVm6hMs)
+- [C ile Veri Yapıları Eğitimi/Uygulama Serisi(Mucit Yazılım)](https://www.youtube.com/playlist?list=PLOsYO8J5EH_txthUirEEYlCEowJDm70Hw)
+- [Verı Yapıları(Bilgisayar Bilimleri)](https://www.youtube.com/playlist?list=PLcRJmfm3gSKo5IWngFUp8UrEXho1csNNk)
+- [Veri Yapıları Ve Algoritmatalar Dersi(Soru Cozum Egıtimi Ve Yazılım Kanalı)](https://www.youtube.com/playlist?list=PLstEgQdEnMSbC4xnL0uw1t9RoCglDUYhe)
+- [VERİ YAPILARI(Yazılım Cafe)](https://www.youtube.com/playlist?list=PLKebU9Gpq-TCvpu-ozSt5ttXZ-7HXSeeS)
+- [VERI YAPILARI(Alper Talha Karadeniz)](https://www.youtube.com/playlist?list=PLCcHEq_2Lrs6eFujKW0hfqYZGUX7ZpR7T)
+- [Veri Yapıları ve Algoritmalar | 2020(Base Akademi)](https://www.youtube.com/playlist?list=PLlxMHxuCaN7jYKCgsLl-mmB34-v7WkpAj)
+- [C++ Programlama Dili ile Veri Yapıları(Mucit Yazılım)](https://www.youtube.com/playlist?list=PLOsYO8J5EH_v1avmv-9fsPR2muZxBxB5u)
+- [Veri Yapıları(Bilgisayar Mühendisliği)](https://www.youtube.com/playlist?list=PLDUOF2Be-kzkASKpcHGI3ErLyu18CCAeq)
+- [Algoritmalar ve Veri Yapıları(Akın Kaldıroğlu)](https://www.youtube.com/playlist?list=PLWzys81k5wVtooF4ZPdHxtc-XJtWu3qt0)
+- [Veri Yapıları(Abdulkadir Karakus)](https://www.youtube.com/playlist?list=PLd8KFTwhW7PLBwqO42DRnCrC2LVxO5GuR)
+- [Veri Yapıları(Data Structers)(Ogrencı Islerı)](https://www.youtube.com/playlist?list=PLqA0PQwKvXnwg9zc91FdKDoMyQMh8CWUn)
+- [Veri Yapıları(Samet Sunman)](https://www.youtube.com/playlist?list=PL9uBxt1noFaPpFGjq88lOue32RPLC3uww)
   <hr>
 
-## BigO CheatSheet
+#### BigO CheatSheet
 
 ![BigO() CheatSheet](https://user-images.githubusercontent.com/57585087/99726750-f7d93d80-2ac7-11eb-8c07-fa50758c2300.jpeg)
 
