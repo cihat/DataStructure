@@ -53,7 +53,6 @@
 
 <hr/>
 
-### [Awesome DataScience](https://github.com/academic/awesome-datascience)
 
 <!-- ##### [Veri Yapıları Dersleri YouTube PlayList Linkleri ](https://github.com/cihatdev/DataStructure#veri-yap%C4%B1lar%C4%B1-ders-videolar%C4%B1playlistler) -->
 
@@ -72,7 +71,16 @@ Verinin bilgisayar belleğinde saklanma şekli ve organizasyonuna <b>Veri Yapıs
 <p>
 Verilerin bilgisayar belleğinde tutulması için yapılacak tasarımda amaca göre farklılık gösterebilir.Bellek boyununun artmaması öncelik ise hızdan, hız ve esneklik söz konusu ise bellekten feragat edilebilir. **Hangi organizasyon yapısı kullanılcağı tamamen yapılacak uygulamaya bağlıdır.** Doğrudan ve kesin olarak cevap verilemez.
 </p>
-<br>
+<hr/>
+
+## Veri Yapıları için Kaynaklar
+
+#### [Awesome DataScience ✨✨](https://github.com/academic/awesome-datascience)
+#### [javascript-algorithms(JavaScript Algorithms and Data Structures) ✨✨](https://github.com/trekhleb/javascript-algorithms)
+
+### [Awesome - Computer Science](https://github.com/sindresorhus/awesome#computer-science)
+
+<hr/>
 
 ## **Veri Yapıları Türkçe Ders Videoları(PlayListler)**
 
@@ -103,13 +111,12 @@ Verilerin bilgisayar belleğinde tutulması için yapılacak tasarımda amaca g�
 
 <hr/>
 
-#### Source Repos Of Codes
+# Bu repodaki birçok kod örneği ve yazılar alıntılanmıştır. Alıntıların linkleri ilgili README.md dosyalarında bulunmaktadır. 
 
-###### [ilhanaydintr/Data-Structures](https://github.com/ilhanaydintr/Data-Structures)
-
-###### [Genc/Data-Structures](https://github.com/Genc/Data-Structures)
-
-###### [ayyucedemirbas/Data-Structures-Java](https://github.com/ayyucedemirbas/Data-Structures-Java)
+## Örnek Kodların linkleri
+### **[Genc/Data-Structures](https://github.com/Genc/Data-Structures)** <br/>
+[ilhanaydintr/Data-Structures](https://github.com/ilhanaydintr/Data-Structures)<br/>
+ [ayyucedemirbas/Data-Structures-Java](https://github.com/ayyucedemirbas/Data-Structures-Java)
 
 <hr/>
 
