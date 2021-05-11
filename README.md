@@ -45,7 +45,7 @@
   </li>
     <li>
 
-[Graph(Graf)](https://github.com/cihatdev/DataStructure/tree/master/8%20-%20Graph)
+[Graph(Graf)](https://github.com/cihat/DataStructure/tree/master/7%20-%20Graph)
 
   </li>
 </ul>
