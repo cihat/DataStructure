@@ -9,8 +9,8 @@
 
 ## Ders Notları
 
-[Yrd.Doç.Dr.Burhan ERGEN Ders Notları](https://github.com/cihat/DataStructure/tree/master/src/Ders%20Notlar%C4%B1/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1) ||
-[Olcay Taner Yıldız Derst Slaytları](https://github.com/cihat/DataStructure/tree/master/src/Ders%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
+[Yrd.Doç.Dr.Burhan ERGEN Ders Notları](./DersNotlar/Burhan%20Ergen%20Ders%20Slaytlar%C4%B1) ||
+[Olcay Taner Yıldız Derst Slaytları](./Ders*%20Notlar%C4%B1/Olcay%20Taner%20Y%C4%B1ld%C4%B1z%20Derst%20Slaytlar%C4%B1)
 
 <hr>
 
@@ -19,37 +19,37 @@
 <ul style="list-style-type: none;">
   <li>
 
-[Linked List](https://github.com/cihat/DataStructure/tree/master/src/1%20-%20LinkedList)
+[Linked List](./1LinkedList/linkedlist.md)
 
   </li>
   <li>
 
-[Doubly Linked List(Çift Bağlantılı Listeler)](https://github.com/cihat/DataStructure/tree/master/src/2%20-%20DoublyLinkedL%C4%B0st)
+[Doubly Linked List(Çift Bağlantılı Listeler)](./2DoublyLinkedLİst/README.md)
 
   </li>
   <li>
 
-[Stack(Yığıt)](https://github.com/cihat/DataStructure/tree/master/src/3%20-%20Stack)
+[Stack(Yığıt)](./3Stack/README.md)
 
   </li>
   <li>
 
-[Queue(Kuyruk)](https://github.com/cihat/DataStructure/tree/master/src/4%20-%20Queue)
+[Queue(Kuyruk)](./4Queue/README.md)
 
   </li>
   <li>
 
-[Binary Search Tree(Ikili Arama Ağaçları)](https://github.com/cihat/DataStructure/tree/master/src/5%20-%20BinarySearchTree)
+[Binary Search Tree(Ikili Arama Ağaçları)](./5BinarySearchTree/README.md)
 
   </li>
   <li>
 
-[Tree](https://github.com/cihat/DataStructure/tree/master/src/6%20-%20Tree)
+[Tree](./6Tree/README.md)
 
   </li>
     <li>
 
-[Graph(Graf)](https://github.com/cihat/DataStructure/tree/master/src/7%20-%20Graph)
+[Graph(Graf)](./7Graph/README.md)
 
   </li>
 </ul>
